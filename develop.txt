@@ -1,2 +1,6 @@
 This is Develop text file under develop branch.
+<<<<<<< HEAD
 Line 2 added from master branch--local.
+=======
+Line-2---edited from local-develop.
+>>>>>>> develop
