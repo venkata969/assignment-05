@@ -1,1 +1,2 @@
 Hello This is main text file created under master branch --locally later it will be moved to main.
+This is hot fix branch updates
