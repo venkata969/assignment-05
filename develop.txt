@@ -1,1 +1,2 @@
 This is Develop text file under develop branch.
+Line 2 added from master branch--local.
